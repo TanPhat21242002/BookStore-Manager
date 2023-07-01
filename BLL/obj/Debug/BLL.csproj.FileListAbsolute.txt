@@ -1,0 +1,59 @@
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\BLL.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\BLL.pdb
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\DAL.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\DAL.pdb
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.xml
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\obj\Debug\BLL.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\obj\Debug\BLL.pdb
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\BLL.dll.config
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\BLL.dll.config
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\BLL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\BLL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\DAL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\DAL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\obj\Debug\BLL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\obj\Debug\BLL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\BLL\bin\Debug\DAL.dll.config
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\BLL.dll.config
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\BLL.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\BLL.pdb
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\DAL.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\DAL.pdb
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\DAL.dll.config
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.xml
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\obj\Debug\BLL.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\BLL\obj\Debug\BLL.pdb
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\BLL.dll.config
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\BLL.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\BLL.pdb
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\DAL.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\DAL.pdb
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\DAL.dll.config
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.xml
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\obj\Debug\BLL.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\BLL\obj\Debug\BLL.pdb

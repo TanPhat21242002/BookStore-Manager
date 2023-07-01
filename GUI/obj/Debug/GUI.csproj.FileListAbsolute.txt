@@ -1,0 +1,151 @@
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe.config
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\GUI.pdb
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\BLL.pdb
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\DAL.pdb
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.xml
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.exe
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.pdb
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.MainForm.resources
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.HoaDon.resources
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.KhachHang.resources
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.Sach.resources
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.TacGia.resources
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll.config
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.NhanVien.resources
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.DauSach.resources
+E:\LapTrinhWin\CUOIKY\QuanLyCuaHangSach\GUI\obj\Debug\GUI.BanSach.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\GUI.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\BLL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll.config
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\DAL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmBanSach.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmDauSach.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmHoaDon.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmKhachHang.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmMainForm.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmSach.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmTacGia.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.exe
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmThongBao.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll.config
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\GUI.pdb
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\BLL.pdb
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll.config
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\DAL.pdb
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll.config
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.xml
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmBanSach.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmDauSach.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmHoaDon.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmKhachHang.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmMainForm.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmThongBao.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmSach.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmTacGia.resources
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.exe
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.pdb
+C:\Users\TANPHAT\Desktop\QuanLyCuaHangSach\GUI\obj\Debug\GUI.FormTrangChu.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe.config
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\GUI.pdb
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.dll
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\BLL.pdb
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll.config
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\DAL.pdb
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll.config
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.xml
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.FormTrangChu.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmBanSach.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmDauSach.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmHoaDon.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmKhachHang.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmMainForm.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmThongBao.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmSach.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmTacGia.resources
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.exe
+C:\Users\TANPHAT\Desktop\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.pdb
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe.config
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\GUI.exe
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\GUI.pdb
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\BLL.pdb
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\BLL.dll.config
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\DAL.pdb
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\DAL.dll.config
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.xml
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.FormTrangChu.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmBanSach.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmDauSach.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmMainForm.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmThongBao.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmSach.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.frmTacGia.resources
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.exe
+D:\HocTap\Năm 2\Học kỳ 2\LapTrinhWin\CUOIKY\Nhom7_Window\QuanLyCuaHangSach\GUI\obj\Debug\GUI.pdb
