@@ -14,4 +14,6 @@ Thay doi connect string trong app.config trong folder GUI thanh SQL-Server Conne
 
 ![image](https://github.com/TanPhat21242002/BookStore-Manager/assets/85055754/51ef4cd1-81f8-49c6-8918-93fd276579a4)
 
+![image](https://github.com/TanPhat21242002/BookStore-Manager/assets/85055754/9b6dafb6-268e-4773-abe7-103dc6cace45)
+
 
